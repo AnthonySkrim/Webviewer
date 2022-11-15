@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 300;
   width: 1000px;
   height: 600px;
 }
@@ -12,7 +12,7 @@ body {
 model-viewer {
   width: 100%;
   height: 90%;
-  background-color: #e38e52;
+  background-color: #99745a;
 }
 
 
